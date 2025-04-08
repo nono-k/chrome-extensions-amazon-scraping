@@ -1,3 +1,7 @@
-# WXT + React
+# Amazon Scraping Chrome Extension
 
-This template should help get you started developing with React in WXT.
+アマゾンの商品情報を取得するChrome拡張機能です。
+
+解説記事はこちらから
+
+https://hypb.dev/articles/chrome-extensions-wxt
